@@ -3,6 +3,7 @@
 This repository showcases a fully interactive **Sales Performance Dashboard** built in Microsoft Excel. The project transforms raw sales records into a dynamic analytical tool that helps users monitor essential KPIs, uncover trends, and compare performance using year-over-year (YoY) insights.
 
 The dashboard features a sleek **dark-themed interface** and leverages advanced Excel features such as Pivot Tables, Calculated Fields, Slicers, and automated KPI cards.
+
 ![Dashboard Preview](Dashboard.png)
 ---
 
